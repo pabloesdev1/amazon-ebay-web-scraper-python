@@ -1,0 +1,15 @@
+Información de productos de Amazon
+
+- Url de resultados:    https://www.amazon.com/s?k=logitech+c922&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=W76FKPSY8H8K&sprefix=log%2Caps%2C272&ref=nb_sb_noss_1
+- Producto:             <div class="s-result-item">
+- Nombre:               <span class="a-size-medium a-color-base a-text-normal">
+- Precio:               <span class="a-price">
+- URL:                  <a class="a-link-normal a-text-normal">
+
+Información de productos de eBay
+
+- Url de resultados:    https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1312&_nkw=logitech+c922&_sacat=0
+- Producto:             <li class="s-item">
+- Nombre:               <h3 class="s-item__title">
+- Precio:               <span class="s-item__price">
+- URL:                  <a class="s-item__link">
